@@ -6,6 +6,7 @@ Original:https://github.com/aseprite/Aseprite-Script-Examples/blob/master/Pack%2
 指定した高さと横幅ごとに絵を分割します。
 
 チェックを入れると、本来のPackSimilarTilesと同じく、同じ内容の画像を破棄します。
+
 チェックを入れないと、ただ単に指定したサイズに分割されたものを出力します。
 
 ## 参考画像
